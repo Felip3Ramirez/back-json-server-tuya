@@ -1,0 +1,16 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "nombre":"Felipe Ramirez",
+            "user":"admin",
+            "password":"admin"
+        },{
+            "id":2,
+            "nombre":"Laura",
+            "user":"generico",
+            "password":"generico"
+        }
+    ],
+    "envios":[]
+}
